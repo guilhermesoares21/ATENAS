@@ -2,4 +2,11 @@
 
 .fundo-imagem{
 width: 100%;
+display: flex;
+}
+
+.titulos{
+    width: 100%;
+    display:inline-block;
+    
 }
